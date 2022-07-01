@@ -2,9 +2,13 @@
 items:
   - text: Menu One
     url: "#"
+    class: "test"
   - text: Menu Two
     url: "#"
+    class: "test"
   - text: Menu Three
     url: "#"
+    class: "test"
   - text: Blog
     url: "/blog"
+    class: "test"
